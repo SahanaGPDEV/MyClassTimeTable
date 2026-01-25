@@ -1,6 +1,15 @@
- My Class TimeTable
+# 📚 Class Time Table
 
-Link: https://sahanagpdev.github.io/MyClassTimeTable/
+## ✨ Overview
+A neatly designed timetable created using HTML and CSS to test table layout formatting.
 
-Description:
-A neatly designed timetable layout created using HTML and CSS, showing schedule structure in a clean grid.
+##  Features
+- Clean table design  
+- Organized structure  
+- Simple and responsive
+
+## 🛠 Tech Stack
+HTML • CSS
+
+## 🔗 Live Demo
+https://sahanagpdev.github.io/MyClassTimeTable/
